@@ -52,3 +52,6 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# KL
+GN-2013B-Q-45/SDSS0924+219/.ipynb_checkpoints
